@@ -1,6 +1,6 @@
 # Aufgabe 1: Käsekuchen
 
-Wir wollen ein kleines Programm schreiben, dass uns dabei hilft die Länge von Wörtern zu bestimmen.
+Wir wollen ein kleines Programm schreiben, das uns dabei hilft, die Länge von Wörtern zu bestimmen.
 
 ## Schritt 1
 
