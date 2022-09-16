@@ -17,9 +17,10 @@ Für einen Onlineshop soll ein Datenbankmodell (in Form von SQL-Statements) erst
 Als Datenbanksystem soll der SQL-Server von Microsoft zum Einsatz kommen.
 
 ## Schritt 2 - ADO.NET
+Im nächsten Schritt soll auf das zuvor erstelle Datenbankmodell mit ADO.NET zugegriffen werden.
 
 ## Schritt 3 - Dapper
 Als nächstes soll der Zugriff auf die Datenbank über Dapper (https://github.com/DapperLib/Dapper) erfolgen.
 
 ## Schritt 4 - Entity Framework Core
-Als nächstes soll der Zugriff auf die Datenbank über  Entity Framework Core erfolgen.
+Als nächstes soll der Zugriff auf die Datenbank über Entity Framework Core erfolgen.
